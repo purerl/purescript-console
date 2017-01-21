@@ -1,4 +1,3 @@
-% module Control.Monad.Eff.Console
 -module(control_monad_eff_console@foreign).
 -export([log/1,warn/1,error/1,info/1]).
 
