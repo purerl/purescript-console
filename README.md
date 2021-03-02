@@ -1,14 +1,15 @@
 # purescript-console
 
-[![Latest release](http://img.shields.io/github/release/purescript/purescript-eff.svg)](https://github.com/purescript/purescript-console/releases)
-[![Build status](https://travis-ci.org/purescript/purescript-console.svg?branch=master)](https://travis-ci.org/purescript/purescript-console)
+[![Latest release](http://img.shields.io/github/release/purescript/purescript-console.svg)](https://github.com/purescript/purescript-console/releases)
+[![Build status](https://github.com/purescript/purescript-console/workflows/CI/badge.svg?branch=master)](https://github.com/purescript/purescript-console/actions?query=workflow%3ACI+branch%3Amaster)
+[![Pursuit](https://pursuit.purescript.org/packages/purescript-console/badge)](https://pursuit.purescript.org/packages/purescript-console)
 
 Console-related functions and effect type.
 
 ## Installation
 
 ```
-bower install purescript-console
+spago install console
 ```
 
 ## Documentation
